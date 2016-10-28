@@ -3,5 +3,6 @@
 
     <string name="app_name">RemoteWifiApp</string>
     <string name="hello_world">Hello world!</string>
+    <string name="about">Remote Wifi App by @remoteCtrl</string>
 
 </resources>
